@@ -1,1 +1,1 @@
-msgbox hellow world
+msgbox ahk empty file
